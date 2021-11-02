@@ -1,0 +1,34 @@
+#contact {
+    background: #2b2b33f3;
+    padding-top: 1rem;
+    padding-bottom: 4rem; 
+    font-style: HVD Bodedo;
+    color: #636363;
+}
+
+
+#contact .section-intro h1 {
+   letter-spacing: 3px; 
+   color: #EBEEEE;
+    margin-bottom: 6px; 
+}
+#contact .section-intro h4 {
+  color: #f0cc00;
+}
+#contact .section-intro p {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.contact-info {
+  margin: 4.8rem auto 0;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+ .contact-info .cm {
+  margin-bottom: 2.1rem;
+} 
+
+.contact-info h4 {
+  color: #f0a400;
+}

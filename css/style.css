@@ -1,0 +1,50 @@
+body {
+    margin: 3px;
+    background-color: black;
+    color: white; 
+    border: rgb(116, 25, 40);
+  }
+    body a {
+      color: rgb(182, 121, 130);
+      text-decoration: none; 
+    }
+      body a:hover {
+        color: rgb(209, 218, 131); 
+    }
+    body .content {
+      background: url("https://i.postimg.cc/vBXx3dm7/profile.jpg") no-repeat center; 
+      height: 730px;
+      width: 1758px;
+      margin: 0 0 0 auto;
+      padding-left: 0px; 
+    }
+      body .content  {
+        font-weight: normal;
+        padding: 15px 0 0;
+        margin: 0px;
+        font-size: 100px; 
+    }
+    header {
+      height: 800px;
+      min-height: 500px;
+      width: 100%;
+      text-align: left; 
+    }
+     
+      ul#nav {
+        font-size:28px;
+        letter-spacing:15px;
+     }
+     ul#nav li {
+        list-style: none;
+        height: 100px;
+     }
+     
+     ul#nav li a {
+        padding: 8px 13px;
+        line-height: 60px;
+       text-decoration: none;
+        text-align: left;
+     }
+    
+     

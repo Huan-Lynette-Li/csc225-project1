@@ -1,0 +1,59 @@
+#about {
+    padding-top: 1rem;
+    padding-bottom: 4rem; 
+    background:rgb(32, 39, 44);
+    font-style: Helvetica Neue, Helvetica;
+    color: white;
+}
+  
+   #about .section-intro { 
+      margin-bottom: 2rem;
+      margin-top: 3.2rem;
+      margin-right: 30px;
+      margin-left: 50px;
+      padding: 4px 6px 7px 7px;
+    }
+    
+    .intro-info {
+      margin-top: 4.2rem;
+      margin-right: 30px;
+      margin-left:  30px;
+      padding: auto;
+    }
+    .intro-info img {
+      height: 30rem;
+      width: 17rem;
+      border:1px solid #6d7e8b;
+      margin-top: -25px;
+      float: left;
+    }
+    .intro-info .brief {
+      text-align: right;
+      padding-right: 1.0rem;
+      font-style: Helvetica Neue, Helvetica;
+      color: white;
+      font-size: 1.3rem;
+}
+    
+    
+  
+    .about-content {
+      position: relative; 
+      text-align: right;
+      max-width: 750px;
+      margin-top: 3rem;
+      margin-bottom: 3.6rem; 
+  }
+  
+    #about .download .button {
+      width: 100%;
+      padding: 15px 20px;
+   }
+    .button-section {
+      text-align: center;
+      letter-spacing: 1rem;
+    } 
+    .button-section .button {
+      width: 250px;
+    }
+    
